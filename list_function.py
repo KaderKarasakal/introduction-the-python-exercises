@@ -33,4 +33,4 @@ middle_list = middle(original_list)
 
 chop(chop_list)
 
-(chop_list, middle_list)
+print(chop_list, middle_list)
