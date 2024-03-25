@@ -31,6 +31,7 @@ original_list = [1,2,3,4,5]
 chop_list = original_list.copy()
 middle_list = middle(original_list)
 
+# Apply the chop function to modify the list in-place
 chop(chop_list)
 
 print(chop_list, middle_list)
